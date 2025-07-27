@@ -1,0 +1,9 @@
+[submodule "micro-services/temperature-monitoring"]
+	path = micro-services/temperature-monitoring
+	url = https://github.com/viniciusvsjesus/temperature-monitoring.git
+[submodule "micro-services/temperature-processing"]
+	path = micro-services/temperature-processing
+	url = https://github.com/viniciusvsjesus/temperature-processing.git
+[submodule "micro-services/device-management"]
+	path = micro-services/device-management
+	url = https://github.com/viniciusvsjesus/device-management.git
